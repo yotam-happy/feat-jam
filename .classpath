@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/esa-lucene"/>
+	<classpathentry kind="lib" path="lib/weka.jar"/>
+	<classpathentry kind="lib" path="lib/libsvm.jar"/>
+	<classpathentry kind="lib" path="lib/snowball-20051019.jar"/>
+	<classpathentry kind="lib" path="/esa-lucene/web/WEB-INF/lib/trove-3.0.3.jar"/>
+	<classpathentry kind="lib" path="lib/mysql-connector-java-5.1.35-bin.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/JotClustering"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/JGibbLDA-v.1.0"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
